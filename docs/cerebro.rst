@@ -255,7 +255,7 @@ is used (a *strategy* was added with ``optstrategy``):
 Giving access to the plotting facilities
 ****************************************
 
-As an extra an if ``matplotlib`` is installed, the strategies can be
+As an extra if ``matplotlib`` is installed, the strategies can be
 plotted. With the usual pattern being::
 
   cerebro.plot()
